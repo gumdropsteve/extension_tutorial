@@ -1,4 +1,11 @@
-.lock
+# https://github.com/jupyterlab/jupyterlab_apod
+*.bundle.*
+lib/
+node_modules/
+.ipynb_checkpoints
+yarn.lock
+tsconfig.tsbuildinfo
+*.lock
 
 # Logs
 logs
